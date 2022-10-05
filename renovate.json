@@ -1,10 +1,4 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "dependencyDashboard": true,
-  "packageRules": [
-    {
-      "matchManagers": ["npm"],
-      "rangeStrategy": "pin"
-    }
-  ]
+  "dependencyDashboard": true
 }
